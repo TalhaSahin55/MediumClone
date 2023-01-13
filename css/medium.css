@@ -1,0 +1,43 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+.bg-yellow{
+    background-color: #ffc017;
+}
+.border-bottom-dark {
+    border-bottom: 1px solid #433b26 ;
+}
+.stay-h1{
+    font-size: 106px;
+    color:black;
+}
+.stay-p{
+    font-size: 24px;
+    color: black;
+}
+.jpeg{
+    width: 400px;
+    height: 300px;
+}
+.aside-buttons > Li{
+    margin-bottom: 10px;
+}
+.buton1{
+    font-size: 20px;
+    width: 213px;
+    padding: 7px 20px 9px;
+    text-decoration: none;
+    display: inline-block;
+    box-sizing: border-box;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 99em;
+    border-color: rgb(25, 25, 25);
+    background: rgb(25, 25, 25);
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    margin: 0;
+}
+.top-border-dark{
+    border-top: 1px solid rgb(230, 230, 230);
+}
